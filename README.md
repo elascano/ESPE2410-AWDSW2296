@@ -22,12 +22,12 @@ Repository for uploading students' code for Back-end and Front-end projects, ass
 node js, React, Angular, Java
 
 ### Installing
-Visual Studio code
-NodeJs
-Netbeans
-Angular
-React
-Browsers
+- Visual Studio code
+- NodeJs
+- Netbeans
+- Angular
+- React
+- Browsers
 
 ### Executing program
 COMMANDS FROM UBUNTU
@@ -35,10 +35,10 @@ $ node index.js
 
 
 ## Authors
-Lascano Edison  
+- Lascano Edison  
 edison_lascano@yahoo.com
-Asmal Kevin
-Casignia Diego
+- Asmal Kevin
+- Casignia Diego
 .
 .
 .
