@@ -39,9 +39,23 @@ $ node index.js
 edison_lascano@yahoo.com
 - Asmal Kevin
 - Casignia Diego
-.
-.
-.
+- Chavez Kleber
+- Chiliquinga Yeshua
+- Cuadrado Jeremy
+- Escobar Isaac
+- Espin Andres
+- Guallichico Josue
+- Jaya Carlos
+- Lusmaña Matias
+- Marin Josue
+- Orrico Camilo
+- Pabon Elkin
+- Panchez Darwin
+- Proaño Jose
+- Salcedo Micaela
+- Sanmartin Jose
+- Suarez Matias
+- Villarroel Justin
 
 ## Version History
 
