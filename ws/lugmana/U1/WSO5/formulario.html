@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment Management</title>
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+</head>
+<body>
+<div class="container">
+    <header>
+        <h1>Assignment Management</h1>
+    </header>
+    <div class="main-content">
+        <aside>
+            <nav>
+                <ul>
+                    <li><a href="#"><i class="material-icons">person</i> Login</a></li>
+                    <li><a href="#"><i class="material-icons">assessment</i> Reports</a></li>
+                    <li><a href="#"><i class="material-icons">logout</i> Logout</a></li>
+                </ul>
+            </nav>
+        </aside>
+        <main>
+            <section class="form-container">
+                <form id="assignmentForm" class="form-container-p" onsubmit="return validateForm()">
+                    <div class="input-group">
+                        <h3>Assignment ID:</h3>
+                        <input type="number" id="id" name="id" required>
+                    </div>
+                    <div class="input-group">
+                        <h3>Title:</h3>
+                        <input type="text" id="title" name="title" required>
+                    </div>
+                    <div class="input-group">
+                        <h3>Subject:</h3>
+                        <select id="subject" name="subject" required>
+                            <option value="">Select a subject</option>
+                            <option value="Math">Math</option>
+                            <option value="Science">Science</option>
+                            <option value="History">History</option>
+                            <option value="Literature">Literature</option>
+                            <option value="Physics">Physics</option>
+                            <option value="Chemistry">Chemistry</option>
+                            <option value="Biology">Biology</option>
+                        </select>
+                    </div>
+                    <div class="input-group">
+                        <h3>Due Date:</h3>
+                        <input type="date" id="due_date" name="due_date" required>
+                    </div>
+                    <div class="input-group">
+                        <h3>Status:</h3>
+                        <input type="text" id="status" name="status" required>
+                    </div>
+                    <div class="input-group">
+                        <h3>Description:</h3>
+                        <textarea id="description" name="description" required></textarea>
+                    </div>
+                </form>
+                <button class="nuevo-button" type="button" onclick="clearForm()">New</button>
+            </section>
+
+            <div class="buttons">
+                <button id="btn_add" type="button" onclick="if(validateForm()) addAssignment()">Add</button>
+                <a href="../index.html">
+                    <button id="btn_add" type="button">Show Assignment</button>
+                </a>
+            </div>
+           
+            <script>
+                function clearForm() {
+                    document.getElementById("assignmentForm").reset();
+                }
+
+                function validateForm() {
+                    const id = document.getElementById("id").value;
+                    const title = document.getElementById("title").value;
+                    const subject = document.getElementById("subject").value;
+                    const dueDate = document.getElementById("due_date").value;
+                    const status = document.getElementById("status").value;
+                    const description = document.getElementById("description").value;
+
+                    if (!id || !title || !subject || !dueDate || !status || !description) {
+                        alert("Please fill in all fields.");
+                        return false;
+                    }
+
+                    if (id <= 0) {
+                        alert("Assignment ID must be a positive number.");
+                        return false;
+                    }
+
+                    return true;
+                }
+
+                function addAssignment() {
+                    alert("Assignment added successfully!");
+                    clearForm();
+                }
+            </script>
+        </main>
+        
+        <div id="myModal" class="modal">
+            <div class="modal-content">
+                <span class="close" onclick="closeModal()">&times;</span>
+                <h1></h1>
+                <p></p>
+                <button onclick="closeModal()">OK</button>
+            </div>
+        </div>
+        <div class="footer"></div>
+    </div>
+</div>
+</body>
+</html>
