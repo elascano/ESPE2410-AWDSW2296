@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>index</title>
+<style>
+ 
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+    font-family: sans-serif;
+  }
+
+  fieldset {
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin: 10px;
+  }
+
+  legend {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  input[type="text"], input[type="number"], input[type="email"], input[type="date"] {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+
+  input[name="textfield2"] {
+    text-align: right;
+  }
+	
+  .error {
+    color: red;
+    font-weight: bold;
+    margin-top: 5px;
+  }
+</style>
+</head>
+<body>
+	<form action="index.html" >
+  <fieldset>
+    <p align="center" style="font-size: 25px;"><strong>DATOS DEL CLIENTE </strong></p>
+    
+    <fieldset>
+      <legend>Datos generales</legend>
+      <p>
+        <label for="textfield">Nombres y Apellidos:</label>
+        <input type="text" name="textfield" id="textfield" required oninput="validateName()">
+        <span class="error" id="nameError"></span>
+      </p>
+      <p>
+        <label for="email">Email:</label>
+        <input type="email" name="email" id="email" required oninput="validateEmail()">
+        <span class="error" id="emailError"></span>
+      </p>
+      <p>
+        <label for="textfield2">Tipo de pago:</label>
+        <input type="text" name="textfield2" id="textfield2" required oninput="validateSueldo()">
+        <span class="error" id="sueldoError"></span>
+      </p>
+      <p>
+        <label for="number">Cédula:</label>
+        <input type="number" name="number" id="number" min="0" max="10" required oninput="validateCedula()">
+        <span class="error" id="cedulaError"></span>
+      </p>
+      <p>
+        <label for="date">Fecha de nacimiento:</label>
+        <input type="date" name="date" id="date" required oninput="validateFecha()">
+        <span class="error" id="fechaError"></span>
+      </p>
+      </fieldset>
+    
+    <fieldset>
+      <legend>Modalidad</legend>
+      <p>
+        <label>
+          <input type="radio" name="RadioGroup1" value="opción" id="RadioGroup1_0">
+          Mixto
+        </label>
+        <br>
+        <label>
+          <input type="radio" name="RadioGroup1" value="opción" id="RadioGroup1_1">
+          Virtual
+        </label>
+        <br>
+        <label>
+          <input type="radio" name="RadioGroup1" value="opción" id="RadioGroup1_2">
+          Presencial 
+        </label>
+      </p>
+      <p align="center" style="font-size: 25px;">
+        <label for="date2">Fecha de inscripción:</label>
+        <input type="date" name="date2" id="date2">
+      </p>
+      </fieldset>
+    
+    <fieldset>
+      <p align="center" style="font-size: 25px;">
+        <input type="submit" name="submit" id="submit" value="Enviar">
+        <input type="reset" name="reset" id="reset" value="Restablecer">
+      </p>
+  </fieldset>
+    
+  </fieldset>
+  <script>
+    const nameInput = document.getElementById("textfield");
+    const emailInput = document.getElementById("email");
+    const sueldoInput = document.getElementById("textfield2");
+    const cedulaInput = document.getElementById("number");
+    const fechaInput = document.getElementById("date");
+
+    function validateName() {
+      const name = nameInput.value;
+      const nameError = document.getElementById("nameError");
+
+      if (name.length > 30 || /\d+/.test(name)) {
+        nameError.textContent = "El nombre no debe exceder los 30 caracteres y no debe contener números.";
+        nameInput.style.border = "1px solid red";
+      } else {
+        nameError.textContent = "";
+        nameInput.style.border = "1px solid #ccc";
+      }
+    }
+
+    function validateEmail() {
+      const email = emailInput.value;
+      const emailError = document.getElementById("emailError");
+
+      const emailRegex = /^\w+@\w+\.\w+$/;
+      if (!emailRegex.test(email)) {
+        emailError.textContent = "Ingrese un correo electrónico válido.";
+        emailInput.style.border = "1px solid red";
+      } else {
+        emailError.textContent = "";
+        emailInput.style.border = "1px solid #ccc";
+      }
+    }
+
+    }
+
+    function validateCedula() {
+      const cedula = cedulaInput.value;
+      const cedulaError = document.getElementById("cedulaError");
+
+      if (cedula.length !== 10) {
+        cedulaError.textContent = "Ingrese una cédula válida de 10 dígitos.";
+        cedulaInput.style.border = "1px solid red";
+      } else {
+        cedulaError.textContent = "";
+        cedulaInput.style.border = "1px solid #ccc";
+      }
+    }
+
+    function validateFecha() {
+      const fecha = fechaInput.value;
+      const fechaError = document.getElementById("fechaError");
+
+      if (!fecha) {
+        fechaError.textContent = "Ingrese una fecha de nacimiento válida.";
+        fechaInput.style.border = "1px solid red";
+      } else {
+        fechaError.textContent = "";
+        fechaInput.style.border = "1px solid #ccc";
+      }
+    }
+  </script>
+</body>
+</html>
