@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5faff;
+    color: #002855;
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: #0056b3;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: bold;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+header a:hover {
+    text-decoration: underline;
+}
+
+/* Main title */
+h1 {
+    color: #0056b3;
+    text-align: center;
+}
+
+/* Table styles */
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+table, th, td {
+    border: 2px solid #0056b3;
+    text-align: center;
+    padding: 10px;
+}
+
+/* List styles */
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+ul li a {
+    color: #0056b3;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Section titles */
+section h2 {
+    color: #0056b3;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Footer styles */
+footer {
+    background-color: #002855;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    margin: 0 5px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
