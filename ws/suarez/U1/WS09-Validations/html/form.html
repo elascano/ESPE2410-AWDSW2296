@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Validation: Cell phone numbers</title>
+    
+    <link rel="stylesheet" href="../css/Product.css">
+    <script>
+        function validate(){
+            phoneNumber = document.getElementById("phoneNumber").value;
+            if(!(/^\d{2,3}\s\d{9}$/.test(phoneNumber))){
+                alert('[ERROR] The number must contain the international prefix and 9 digits');
+                return false;
+            }else{
+                alert('[CORRECT] The number is correct :)');
+                return true;
+            }
+        }
+    </script>
+
+</head>
+
+<body>
+
+    <header class="productHeader">
+        <div class="headerLeft">
+            <img src="../images/logo.png" alt="Logo de la marca" class="brandLogo">
+            <p class="brandName">Registro de nuevo aspirante<span class="brandHighlight"> (Lider de area)</span></p>
+        </div>
+    </header>
+
+    <div class="formContainer">
+        <h1>Formulario</h1>
+        <form>
+            <input type="tel" name="phone" placeholder="Teléfono">
+            <button type="submit">Enviar</button>
+        </form>
+    </div>
+
+    <footer>
+        &copy; 2024 CPEDespe. Todos los derechos reservados.
+    </footer>
+
+        <script src="../js/validate.js"></script>
+
+</body>
+</html>
+
+
+
