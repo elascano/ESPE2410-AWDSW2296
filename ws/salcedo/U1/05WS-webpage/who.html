@@ -1,0 +1,104 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>NATULOVE</title>
+	<link href="css/style.css" rel="stylesheet" type="text/css">
+	
+	<script>
+        function validateNumber() {
+            // Obtiene el valor del input
+            const numberCellPhone = document.getElementById('numberPhone').value;
+
+            // Expresión regular: valida prefijo internacional, espacio y 9 dígitos consecutivos
+            const regex = /^\+\d{2,3}\s\d{9}$/;
+
+            if (!regex.test(numberCellPhone)) {
+                alert('[ERROR] El número debe contener el prefijo internacional (+ seguido de 2 o 3 dígitos), un espacio en blanco y 9 dígitos consecutivos.');
+            } else {
+                alert('Número de teléfono válido');
+            }
+        }
+    </script>
+	
+	
+	
+</head>
+
+<body>
+	
+	
+	<div>
+		<center>
+          <a href="index.html"><img src="img/logo.png" width="158" height="140" alt=""/></a>
+		</center>
+
+	</div>
+	
+	
+	<div>
+	<table>
+		<tr>
+		<td><a href="index.html">Who are we?</a></td>
+		<td><a href="index2.html">Catalog </a></td>
+		</tr>
+		
+	  </table>
+	</div>
+	
+	
+	<div>
+		
+	<table>
+		<tr>
+		<td><a href="index3.html">Dried Fruits and Grains</a></td>
+		</tr>
+		<tr>
+		<td><a href="index4.html">Spices and Herbs</a></td>
+		</tr>
+		<tr>
+		<td><a href="who.html">Chocolates and Natural Sweets</a></td>
+		</tr>
+		
+		
+	  </table>	
+	</div>
+	
+	
+	
+	
+	<div>
+	
+	</div>
+	
+	
+	<div>
+	
+	<h2>Validate</h2>
+    <form onsubmit="return false;">
+        <label for="numberPhone">Número de Teléfono:</label>
+        <input type="text" id="numberPhone" placeholder="Ejemplo: +593 987654321">
+        <button onclick="validateNumber()">Validar</button>
+    </form>
+	
+	</div>
+	
+	
+<div >
+    
+        <h5>Address: Av. Gral. Rumiñahui S/N, Sangolquí 171103     </h5> <br>
+        <h5>Phone number: 0962846565       </h5>
+        <h5>Social networks:</h5>
+        <a href="https://www.instagram.com/natulove8/" target="_blank">
+            <img src="img/insta.png" alt="Instagram" class="social-icon">
+        </a>
+</div>
+	
+</body>
+</html>
+
+<s
+
+
+
+

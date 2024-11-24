@@ -1,0 +1,90 @@
+/* General */
+body {
+  margin: 0; 
+  padding: 0; 
+}
+
+div {
+  margin: 0; 
+  padding: 0; 
+}
+
+div img {
+  display: block; /* Asegura que la imagen no tenga espacio lateral */
+  margin: 20px auto; /* Centra la imagen con margen superior e inferior */
+}
+
+/* Barra de navegación (segundo div) */
+div:nth-child(2) {
+  background-color: #d17ca0; /* Color rosado de fondo */
+  text-align: center; /* Centra el texto y enlaces */
+  padding: 10px 0; /* Espaciado interno superior e inferior */
+}
+
+div:nth-child(2) a {
+  color: white; /* Enlaces con texto blanco */
+  text-decoration: none; /* Sin subrayado en los enlaces */
+  margin: 0 20px; /* Espaciado horizontal entre enlaces */
+  font-size: 16px; /* Tamaño de letra de los enlaces */
+}
+
+/* Menú lateral (tercer div) */
+div:nth-child(3) {
+  background-color: #F7C1EB; /* Color rosado de fondo */
+  width: 18%; /* Ocupa el 18% del ancho de la página */
+  float: left; /* Posiciona el menú a la izquierda */
+  padding: 10px; /* Espaciado interno */
+  box-sizing: border-box; /* Incluye el padding dentro del ancho/alto */
+  height: 280px; /* Altura fija */
+}
+
+div:nth-child(3) a {
+	
+  color: black; /* Enlaces con texto negro */
+  text-decoration: none; /* Sin subrayado en los enlaces */
+  display: block; /* Cada enlace ocupa una línea completa */
+  margin: 10px 0; /* Espaciado vertical entre enlaces */
+}
+
+/* Imagen central (cuarto div) */
+div:nth-child(4) {
+  width: 30%; /* Ocupa el 30% del ancho de la página */
+  float: left; /* Se coloca junto al menú lateral */
+  text-align: center; /* Centra el contenido */
+  
+  padding: 10px; /* Espaciado interno */
+  height: 500px; 
+  box-sizing: border-box; /* Incluye el padding dentro del ancho/alto */
+}
+
+/* Pie de página (último div) */
+div:last-of-type {
+  background-color: #333; /* Fondo oscuro */
+  color: white; /* Color de texto blanco */
+  padding: 25px; /* Espaciado interno */
+ 
+  display: flex; /* Utiliza flexbox para organizar el contenido */
+  justify-content: space-between; /* Espacio entre los elementos del pie de página */
+  flex-wrap: wrap; /* Permite que los elementos se acomoden en múltiples líneas si es necesario */
+  gap: 20px; /* Espaciado entre elementos */
+  width: 100%; /* Asegura que el pie de página ocupe todo el ancho */
+  box-sizing: border-box;
+}
+
+.social-icon {
+  width: 40px; /* Tamaño del ícono */
+  height: auto;
+  margin-top: 10px;
+}
+
+div:last-of-type a {
+  color: white; /* Color de los enlaces en el pie de página */
+  text-decoration: none;
+  margin: 0 10px; /* Espaciado horizontal entre íconos sociales */
+}
+
+div:last-of-type a:hover .social-icon {
+  transform: scale(1.1); /* Efecto de zoom al pasar el mouse */
+  transition: transform 0.2s ease;
+}
+
