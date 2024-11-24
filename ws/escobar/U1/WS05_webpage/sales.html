@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Sales System - MadeCorp</title>
+</head>
+<body>
+    <div class="sales-container">
+        <h1>Sales Management - MadeCorp</h1>
+        <form id="salesForm">
+            <label for="saleId">Sale ID:</label>
+            <input type="text" id="saleId" required>
+            <label for="productId">Product ID:</label>
+            <input type="text" id="productId" required>
+            <label for="buyerId">Buyer ID:</label>
+            <input type="text" id="buyerId" required>
+            <label for="total">Total:</label>
+            <input type="number" id="total" required>
+            <label for="status">Status:</label>
+            <select id="status">
+                <option value="arriving">Arriving</option>
+                <option value="delivered">Delivered</option>
+                <option value="delayed">Delayed</option>
+            </select>
+            <button type="submit">Register Sale</button>
+        </form>
+
+        <h2>Registered Sales</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Sale ID</th>
+                    <th>Product ID</th>
+                    <th>Buyer ID</th>
+                    <th>Total</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody id="salesTable"></tbody>
+        </table>
+    </div>
+    <script src="js/js.js"></script>
+</body>
+</html>
