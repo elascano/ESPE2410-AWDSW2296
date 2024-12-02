@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Validation=Cell phone numbers with mandatory prefix</title>
+	<script>
+	function validate()
+		{
+			numberPhone=document.getElementById('numberPhone').value;
+			if(!(/^\+\d{2,3}\s\d{9}$/.test(nPhone)))
+		{
+			alert('[ERROR] The number must contain the international prefix (+ followed by 2 or 3 digits), blank space and 9 consectuve digits');
+			return false;
+			
+		} else
+			{
+				alert('[CORRECT] The numer phone format is correct:)');;
+				return true;
+			}
+		}
+		
+	</script>
+</head>
+
+<body>
+	<center>
+	<h2 align="center"> Cell phone numbers with mandatory prefix.</h2>
+		<form id="form1">
+		
+		<label>
+			</label>	
+		</form>
+			
+		
+	</center>
+</body>
+</html>

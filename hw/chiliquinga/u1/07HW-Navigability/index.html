@@ -1,35 +1,50 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gestión de Calificaciones - Mahanaym</title>
+    <title>Home - Grade Management System</title>
     <link rel="stylesheet" href="styles.css">
+    <script defer src="scripts.js"></script>
 </head>
 <body>
     <header>
-        <h1>Unidad Educativa Mahanaim</h1>
-        <p>Gestión de Calificaciones en Línea</p>
+        <img src="img/logo.png" alt="Mahanaim Educational Unit Logo" class="logo">
+        <div id="home" class="nav-item" data-link="index.html">Home</div>
+        <div id="students" class="nav-item" data-link="students.html">Students</div>
+        <div id="teachers" class="nav-item" data-link="teachers.html">Teachers</div>
+        <div id="admin" class="nav-item" data-link="admin.html">Administrators</div>
     </header>
 
     <main>
-        <section id="intro">
-            <h2>Bienvenido al Sistema de Gestión de Calificaciones</h2>
-            <p>Accede a tus calificaciones de forma rápida y segura, adaptado a las necesidades de nuestra comunidad educativa.</p>
+        <section>
+            <h1>Welcome to the Grade Management System</h1>
+            <p>This system is designed to efficiently manage grades, providing quick and secure access for students, teachers, and administrators.</p>
         </section>
 
-        <section id="links">
-            <h3>Opciones Disponibles</h3>
+        <section>
+            <h2>Main Features</h2>
             <ul>
-                <li><a href="#">Ingresar como Estudiante</a></li>
-                <li><a href="#">Ingresar como Profesor</a></li>
-                <li><a href="#">Ingresar como Administrador</a></li>
+                <li>Real-time recording, updating, and consultation of grades.</li>
+                <li>Secure access control for different user profiles.</li>
+                <li>Generation of academic reports and performance statistics.</li>
+                <li>Intuitive interface accessible from any internet-connected device.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>System Users</h2>
+            <ul>
+                <li><strong>Administrators:</strong> Manage the system and configure settings.</li>
+                <li><strong>Teachers:</strong> Record and view their students' grades.</li>
+                <li><strong>Students:</strong> View their grades and academic performance.</li>
+                <li><strong>Parents:</strong> Access grade reports and their children's performance statistics.</li>
             </ul>
         </section>
     </main>
 
     <footer>
-        <p>© 2024 Unidad Educativa Mahanaim. Todos los derechos reservados.</p>
+        <p>© 2024 Mahanaim Educational Unit. All rights reserved.</p>
     </footer>
 </body>
 </html>
