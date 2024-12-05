@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - SPA</title>
+    <link rel="stylesheet" href="css/pagestyle.css">
+</head>
+<body>
+<div class="header">
+    <div class="header-content">
+        <div class="user-info">
+            <div class="avatar">
+                <img src="img/avatar-male2.png" alt="Avatar">
+            </div>
+            
+        </div>
+        <button class="logout" id="logoutBtn">
+            <i class="fa fa-sign-out-alt"></i> Log Out
+        </button>
+    </div>
+</div>
+
+<div class="sidebar">
+    <h1>Home</h1>
+    <p>&nbsp</p>
+    <div class="avatar">
+        <img src="img/avatar-male2.png" alt="Avatar">
+    </div>
+        <div class="menu-item">
+            <a href="#">Home</a>
+        </div>
+        <div class="menu-item">
+            <a href="#">Assign</a>
+        </div>
+        <div class="menu-item">
+            <a href="#">Client</a>
+        </div>
+        <div class="menu-item">
+            <a href="#">Sales</a>
+        </div>
+
+        </div>
+</div>
+
+<div class="main-content">
+    <h2>Statistics</h2>
+    <div class="stats">
+        <div class="stat-box">
+            <i class="fa fa-users"></i>
+            <div>Total Clients</div>
+        </div>
+        <div class="stat-box">
+            <i class="fa fa-shopping-cart"></i>
+            <div>Total Sales</div>
+        </div>
+        <div class="stat-box">
+            <i class="fa fa-box"></i>
+            <div>Total Products</div>
+        </div>
+        <div class="stat-box">
+            <i class="fa fa-user"></i>
+            <div>Total Users</div>
+        </div>
+        <div class="stat-box">
+            <i class="fa fa-concierge-bell"></i>
+            <div>Total Services</div>
+        </div>
+        <div class="stat-box">
+            <i class="fa fa-truck"></i>
+            <div>Total Suppliers</div>
+        </div>
+    </div>
+</div>
+
+<div id="logoutModal" style="display: none;">
+    <div class="modal-content">
+        <p>Are you sure you want to log out?</p>
+
+        <button id="confirmLogout">Yes</button>
+        <button id="cancelLogout">No</button>
+    </div>
+</div>
+
+<script src="js/code.js" type="application/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,117 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(16, 93, 121);
+}
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    width: 100%;
+    max-width: 600px;
+}
+
+.login-box {
+    background-color: rgb(17, 23, 35);
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    width: 100%;
+}
+
+.login-box h2 {
+    padding-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(96, 76, 20);
+    background: rgb(254, 202, 56);
+}
+
+.input-group {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.input-group label {
+  position: absolute;
+  top: -10px; 
+  left: 10px;  
+  padding: 0 5px; 
+  font-size: 14px;
+  color: yellow;
+  transition: 0.3s ease;
+}
+
+.input-group input:focus + label,
+.input-group select:focus + label,
+.input-group input:not(:placeholder-shown) + label,
+.input-group select:not(:placeholder-shown) + label {
+  top: -20px; 
+  font-size: 12px;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+}
+
+.input-field:focus {
+  border-color: #007BFF; 
+  outline: none;
+}
+
+
+button {
+    width: 100%;
+    padding: 12px;
+    background-color: white;
+    border: none;
+    border-radius: 4px;
+    color: #1E1E2F;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #E0A800;
+}
+
+input[type="reset"] {
+    width: 100%;
+    padding: 12px;
+    background-color: #FF6347;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+input[type="reset"]:hover {
+    background-color: #E0533C;
+}
+
+.mensaje-flotante {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 0, 0, 0.8);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 1000;
+}

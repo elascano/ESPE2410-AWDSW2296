@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link href="css/style.css" rel="stylesheet" type="text/css">
+  <title>Data Input Form</title>
+</head>
+
+<body>
+    <div id="messagePopup" class="mensaje-flotante"></div>
+  <div class="login-container">
+    <div class="login-box">
+      <h2>Data Input Form</h2>
+      <form id="form1" name="form1">
+        <div class="input-group">
+          <input type="text" name="names" id="names" class="input-field" pattern="[A-Za-z\s]+" required>
+          <label for="names">Full Name:</label>
+          <div id="nameError" class="error-message">Only letters and spaces are allowed.</div>
+        </div>
+        <div class="input-group">
+          <input type="text" name="idNumber" id="idNumber" class="input-field" pattern="\d{10}" required>
+          <label for="idNumber">ID Number:</label>
+          <div id="idError" class="error-message">Invalid Ecuadorian ID (10 digits required).</div>
+        </div>
+        <div class="input-group">
+          <input type="date" name="dob" id="dob" class="input-field" required>
+          <label for="dob">Date of Birth:</label>
+          <div id="ageError" class="error-message">You must be over 18 years old.</div>
+        </div>
+        <div class="input-group">
+          <input type="email" name="email" id="email" class="input-field" required>
+          <label for="email">Email:</label>
+          <div id="emailError" class="error-message">Invalid email format.</div>
+        </div>
+        <div class="input-group">
+          <input type="tel" name="phone" id="phone" class="input-field" required>
+          <label for="phone">Phone Number:</label>
+          <div id="phoneError" class="error-message">Phone number doesn't match the country code.</div>
+        </div>
+        <div class="input-group">
+          <select name="sex" id="sex" class="input-field" required>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+            <option value="other">Other</option>
+          </select>
+          <label for="sex">Sex:</label>
+        </div>
+        <div class="input-group">
+          <select name="country" id="country" class="input-field" required>
+            <option value="ecuador">Ecuador</option>
+            <option value="peru">Peru</option>
+            <option value="colombia">Colombia</option>
+          </select>
+          <label for="country">Country:</label>
+        </div>
+        
+        <button type="submit" id="submit">Submit</button>
+        <input type="reset" id="reset" value="Reset">
+      </form>
+    </div>
+  </div>
+<script src="js/script.js" type="application/javascript"></script>
+</body>
+</html>
