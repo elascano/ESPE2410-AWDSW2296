@@ -1,1 +1,1 @@
-Edison Lascano's assignments
+José Proaño's workshops

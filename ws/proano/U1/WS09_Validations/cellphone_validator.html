@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cell phone numbers with mandatory prefix</title>
+    <script>
+        function validatePhone() {
+            var phone = document.getElementById("phone").value;
+            if(!(/^\+\d(2,3)\s\d(9)$/.test(phone))) {
+                alert("ERROR The number must contain the international prefix and 9 digits");
+                return false;
+            } else {
+                alert("CORRECT The phone number is correct");
+                return true;
+            }
+        }
+    </script>
+</head>
+<body>
+    <center>
+        <h1>Cell phone numbers validator</h1>
+        <form onsubmit="return validatePhone()">
+            <label for="phone">Phone number:</label>
+            <input type="text" id="phone" name="phone" placeholder="+34 123456789">
+            <br><br>
+            <input type="submit" value="Validate">
+    </center>
+</body>
+</html>
+

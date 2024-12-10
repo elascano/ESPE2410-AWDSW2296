@@ -1,0 +1,82 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #74ebd5, #acb6e5);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.form-container {
+    width: 100%;
+    max-width: 500px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px 30px;
+}
+.form-container h2 {
+    text-align: center;
+    color: #333333;
+    margin-bottom: 20px;
+}
+.form-group {
+    margin-bottom: 20px;
+}
+.form-group label {
+    display: block;
+    margin-bottom: 8px;
+    color: #555555;
+    font-weight: bold;
+}
+.form-group input,
+.form-group select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    font-size: 1rem;
+    color: #333333;
+}
+.form-group input:focus,
+.form-group select:focus {
+    border-color: #74ebd5;
+    outline: none;
+    box-shadow: 0 0 4px rgba(116, 235, 213, 0.5);
+}
+.form-group .error {
+    color: #ff6666;
+    font-size: 0.9em;
+    margin-top: 5px;
+    display: none;
+}
+.form-container button {
+    width: 100%;
+    padding: 12px;
+    font-size: 1.1rem;
+    color: #ffffff;
+    background: #74ebd5;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+.form-container button:hover {
+    background: #4cafb1;
+}
+.form-container button:focus {
+    outline: none;
+    box-shadow: 0 0 4px rgba(116, 235, 213, 0.8);
+}
+.success-message {
+    display: none;
+    margin-top: 20px;
+    padding: 15px;
+    background: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+    border-radius: 5px;
+    font-size: 1rem;
+    text-align: center;
+}
