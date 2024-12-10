@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Validation: Cell phone number with mandatory prefix</title>
+    <script> 
+    function validate() {
+        // Obtener el valor del input
+        let nPhone = document.getElementById('numberPhone').value;
+
+        // Validar el formato del número
+        if (!(/^\+\d{2,3}\s\d{9}$/.test(nPhone))) {
+            alert('[ERROR] The number must contain the international prefix (+ followed by 2 or 3 digits), blank space, and 9 consecutive digits.');
+            return false;
+        } else {
+            alert('[CORRECT] The PHONE FORMAT IS CORRECT.');
+            return true;
+        }
+    }
+    </script>
+</head>
+<body>
+    <center>
+        <h2 align="center">Cell phone numbers with mandatory prefix</h2>
+        <form id="form1" onsubmit="return validate();">
+            <label for="numberPhone">Insert cell phone number (e.g., +593 961075824):</label>
+            <br><br>
+            <input type="text" id="numberPhone" name="numberPhone" placeholder="+593 961075824" required>
+            <br><br>
+            <button type="submit">Validate</button>
+        </form>
+    </center>
+</body>
+</html>
