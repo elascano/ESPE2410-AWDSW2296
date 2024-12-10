@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CPED Registro de Administrador</title>
+    <link rel="stylesheet" href="../css/style1.css">
+</head>
+<body>
+    <h1>CPED Registro de Administrador</h1>
+    <form id="registroForm" onsubmit="return validarFormulario()">
+       <label for="name">Name:</label><br>
+<input type="text" id="name" name="nombre" required placeholder="Enter your name"><br><br>
+
+        
+        <label for="cedula">Cédula Ecuatoriana:</label><br>
+        <input type="text" id="cedula" name="cedula" required required placeholder="Enter cl"><br><br>
+        
+        <h3>Reportes:</h3>
+        <input type="radio" id="acessos" name="reportes" value="acessos">
+        <label for="acessos">Accesos</label><br>
+        
+        <input type="radio" id="reportes" name="reportes" value="reportes">
+        <label for="reportes">Reportes</label><br>
+        
+        <input type="radio" id="registrar_lideres" name="reportes" value="registrar_lideres">
+        <label for="registrar_lideres">Registrar líderes de grupos</label><br><br>
+        
+        <input type="submit" value="Enviar">
+    </form>
+
+    <script>
+        function validarFormulario() {
+            const nombre = document.getElementById('nombre').value;
+            const cedula = document.getElementById('cedula').value;
+            const radios = document.getElementsByName('reportes');
+            let seleccionRadio = false;
+
+         
+            if (nombre.trim() === '') {
+                alert('Por favor, ingrese su nombre.');
+                return false;
+            }
+            if (cedula.trim() === '' || !/^\d{10}$/.test(cedula)) {
+                alert('Por favor, ingrese una cédula ecuatoriana válida de 10 dígitos.');
+                return false;
+            }
+
+            
+            for (let i = 0; i < radios.length; i++) {
+                if (radios[i].checked) {
+                    seleccionRadio = true;
+                    break;
+                }
+            }
+            if (!seleccionRadio) {
+                alert('Por favor, seleccione una opción de Reportes.');
+                return false;
+            }
+
+            return true;
+        }
+    </script>
+</body>
+</html>
+
+

@@ -1,0 +1,100 @@
+
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nutricion Efectiva</title>
+    
+    <!--Link con CSS para darle Diseño a la pagina-->   
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    
+</head>
+<body>
+
+        <!--Encabezado de la pagina web-->
+        <header class="header">
+            <a href="index.html" class="logo-link">
+                <img src="imgs/logo.png" title="Natulove" class="logo">
+            </a>
+            <h1 class="tituloLogo">Natulove</h1>
+            <input type="checkbox" id="toggle-menu">
+            <label for="toggle-menu" class="hamburger-menu">&#9776;</label>
+
+        <!--Menu-->
+        <nav class="nav">
+            <ul class="barnav">
+                <li class="menu"><a href=>Overview</a></li>
+                <li class="menu"><a href="products.html">Products</a></li>
+                <li class="menu"><a href=>About us</a></li>
+                <li class="menu"><a href=>Catalog</a></li>
+                
+            </ul>
+        </nav>
+    </header>
+
+ 
+    <section class="content">
+        <h2>Validar Número de Teléfono</h2>
+        <form>
+            <label for="phone">Número de Teléfono:</label>
+            <input
+                type="text"
+                id="phone"
+                name="phone"
+                placeholder="Ingrese su número de teléfono"
+                maxlength="10"
+            />
+            <p id="phone-error" class="error-message"></p>
+        </form>
+    </section>
+    
+    <!-- Enlace al archivo JavaScript -->
+    <script src="js/validatecellphone.js"></script>
+    
+    
+
+    
+        
+      
+
+    <!--footer-->
+    <section class="footer">
+        <div class="footer-content">
+            <div class="footer-section about">
+                <h2>Sobre Nosotros</h2>
+                <p>En Salud y Bienestar, nos dedicamos a proporcionarte los mejores consejos y recursos para mantener un estilo de vida saludable. Nuestro equipo de expertos trabaja incansablemente para ofrecerte contenido actualizado y relevante para mejorar tu bienestar físico y mental.</p>
+            </div>
+            <div class="footer-section links">
+                <h2>Enlaces Rápidos</h2>
+                <ul>
+                    <li><a href="inicio.html">Inicio</a></li>
+                    <li><a href="sobre-nosotros.html">Sobre Nosotros</a></li>
+                    <li><a href="consejos.html">Consejos de Salud</a></li>
+                    <li><a href="recetas.html">Recetas Saludables</a></li>
+                    <li><a href="contacto.html">Contacto</a></li>
+                </ul>
+            </div>
+            <div class="footer-section contact-form">
+                <h2>Contáctanos</h2>
+                <form>
+                    <input type="email" name="email" placeholder="Tu correo electrónico" required>
+                    <textarea name="mensaje" placeholder="Tu mensaje" required></textarea>
+                    <button type="submit">Enviar</button>
+                </form>
+            </div>
+            <div>
+                <a href="https://www.facebook.com" target="_blank" class="social-icon facebook"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://www.x.com" target="_blank" class="social-icon x">X</a>
+                <a href="https://www.instagram.com" target="_blank" class="social-icon instagram"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.linkedin.com" target="_blank" class="social-icon linkedin"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 Salud y Bienestar. Todos los derechos reservados.</p>
+        </div>
+    </section>
+</body>
+</html>
