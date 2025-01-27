@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Validation: Cellphone numbers with mandatory prefix</title>
+</head>
+
+<script>
+
+function validate() {
+    nPhone = document.getElementById('numberPhone').value;
+
+    if (!/^\+?\d{1,3}[-.\s]?\(?\d{2,3}\)?[-.\s]?\d{3}[-.\s]?\d{4}$/.test(nPhone)) {
+        alert('[ERROR] The number must contain the international prefix + followed by 2 or 3 digits, a blank space, and 9 consecutive digits');
+        return false;
+    } else {
+        alert('[CORRECT] The phone number is correct');
+    }
+}
+</script>
+<body>
+    <center>
+        <h2>Cellphone</h2>
+        <form onsubmit="return validate()">
+            <label for="numberPhone">Enter Phone Number:</label><br>
+            <input type="text" id="numberPhone" name="numberPhone"><br><br>
+            <input type="submit" value="Validate">
+        </form>
+    </center>
+</body>
+</html>
