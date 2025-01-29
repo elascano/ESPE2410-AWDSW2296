@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2W+KjTqanagUuJ5a7EZqACMGar41q1WEraVmpeUQxhw=",
+  "Source": "APIRestNetCore",
+  "BasePath": "_content/APIRestNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
