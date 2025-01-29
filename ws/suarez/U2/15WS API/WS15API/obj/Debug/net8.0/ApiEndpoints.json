@@ -1,0 +1,30 @@
+[
+  {
+    "ContainingType": "WS15API.Controllers.ProductController",
+    "Method": "GetProduct",
+    "RelativePath": "Product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "GetProduct"
+  },
+  {
+    "ContainingType": "WS15API.Controllers.ProductController",
+    "Method": "AddProduct",
+    "RelativePath": "Product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "WS15API.Model.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "AddProduct"
+  }
+]
