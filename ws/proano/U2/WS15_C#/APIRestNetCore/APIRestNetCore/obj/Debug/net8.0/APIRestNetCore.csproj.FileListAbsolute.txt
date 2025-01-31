@@ -1,0 +1,123 @@
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.AssemblyInfo.cs
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\appsettings.json
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\APIRestNetCore.staticwebassets.endpoints.json
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\APIRestNetCore.exe
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\APIRestNetCore.deps.json
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\APIRestNetCore.runtimeconfig.json
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\APIRestNetCore.dll
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\APIRestNetCore.pdb
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\scopedcss\bundle\APIRestNetCore.styles.css
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets\msbuild.APIRestNetCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets\msbuild.APIRestNetCore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets\msbuild.build.APIRestNetCore.props
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIRestNetCore.props
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIRestNetCore.props
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestN.7998DF3B.Up2Date
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.dll
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\refint\APIRestNetCore.dll
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.pdb
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.genruntimeconfig.cache
+C:\Users\User\source\repos\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\ref\APIRestNetCore.dll
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\appsettings.Development.json
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\appsettings.json
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\APIRestNetCore.staticwebassets.endpoints.json
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\APIRestNetCore.exe
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\APIRestNetCore.deps.json
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\APIRestNetCore.runtimeconfig.json
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\APIRestNetCore.dll
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\APIRestNetCore.pdb
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\MySqlConnector.dll
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.csproj.AssemblyReference.cache
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.AssemblyInfoInputs.cache
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.AssemblyInfo.cs
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.csproj.CoreCompileInputs.cache
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.MvcApplicationPartsAssemblyInfo.cs
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\scopedcss\bundle\APIRestNetCore.styles.css
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets.build.json
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets.development.json
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets\msbuild.APIRestNetCore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets\msbuild.APIRestNetCore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets\msbuild.build.APIRestNetCore.props
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIRestNetCore.props
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIRestNetCore.props
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestN.7998DF3B.Up2Date
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.dll
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\refint\APIRestNetCore.dll
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.pdb
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.genruntimeconfig.cache
+D:\Downloads\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\ref\APIRestNetCore.dll
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\appsettings.Development.json
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\appsettings.json
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\APIRestNetCore.staticwebassets.endpoints.json
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\APIRestNetCore.exe
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\APIRestNetCore.deps.json
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\APIRestNetCore.runtimeconfig.json
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\APIRestNetCore.dll
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\APIRestNetCore.pdb
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\MySqlConnector.dll
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.csproj.AssemblyReference.cache
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.AssemblyInfoInputs.cache
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.AssemblyInfo.cs
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.csproj.CoreCompileInputs.cache
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.MvcApplicationPartsAssemblyInfo.cs
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.MvcApplicationPartsAssemblyInfo.cache
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\scopedcss\bundle\APIRestNetCore.styles.css
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets.build.json
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets.development.json
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets\msbuild.APIRestNetCore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets\msbuild.APIRestNetCore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets\msbuild.build.APIRestNetCore.props
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIRestNetCore.props
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIRestNetCore.props
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestN.7998DF3B.Up2Date
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.dll
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\refint\APIRestNetCore.dll
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.pdb
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\APIRestNetCore.genruntimeconfig.cache
+D:\Escritorio\Clases\Web Avanzada\APIRestNetCore\APIRestNetCore\APIRestNetCore\obj\Debug\net8.0\ref\APIRestNetCore.dll

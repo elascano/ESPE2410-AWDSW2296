@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Escritorio\\Clases\\Web Avanzada\\APIRestNetCore\\APIRestNetCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BA3D86-D30C-47AB-B7BB-1AE3E57BD62B}|APIRestNetCore\\APIRestNetCore.csproj|d:\\escritorio\\clases\\web avanzada\\apirestnetcore\\apirestnetcore\\apirestnetcore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1BA3D86-D30C-47AB-B7BB-1AE3E57BD62B}|APIRestNetCore\\APIRestNetCore.csproj|solutionrelative:apirestnetcore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BA3D86-D30C-47AB-B7BB-1AE3E57BD62B}|APIRestNetCore\\APIRestNetCore.csproj|d:\\escritorio\\clases\\web avanzada\\apirestnetcore\\apirestnetcore\\apirestnetcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1BA3D86-D30C-47AB-B7BB-1AE3E57BD62B}|APIRestNetCore\\APIRestNetCore.csproj|solutionrelative:apirestnetcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BA3D86-D30C-47AB-B7BB-1AE3E57BD62B}|APIRestNetCore\\APIRestNetCore.csproj|d:\\escritorio\\clases\\web avanzada\\apirestnetcore\\apirestnetcore\\apirestnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BA3D86-D30C-47AB-B7BB-1AE3E57BD62B}|APIRestNetCore\\APIRestNetCore.csproj|solutionrelative:apirestnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BA3D86-D30C-47AB-B7BB-1AE3E57BD62B}|APIRestNetCore\\APIRestNetCore.csproj|d:\\escritorio\\clases\\web avanzada\\apirestnetcore\\apirestnetcore\\apirestnetcore\\dataaccess\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BA3D86-D30C-47AB-B7BB-1AE3E57BD62B}|APIRestNetCore\\APIRestNetCore.csproj|solutionrelative:apirestnetcore\\dataaccess\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BA3D86-D30C-47AB-B7BB-1AE3E57BD62B}|APIRestNetCore\\APIRestNetCore.csproj|d:\\escritorio\\clases\\web avanzada\\apirestnetcore\\apirestnetcore\\apirestnetcore\\bussinesslogic\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BA3D86-D30C-47AB-B7BB-1AE3E57BD62B}|APIRestNetCore\\APIRestNetCore.csproj|solutionrelative:apirestnetcore\\bussinesslogic\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BA3D86-D30C-47AB-B7BB-1AE3E57BD62B}|APIRestNetCore\\APIRestNetCore.csproj|d:\\escritorio\\clases\\web avanzada\\apirestnetcore\\apirestnetcore\\apirestnetcore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BA3D86-D30C-47AB-B7BB-1AE3E57BD62B}|APIRestNetCore\\APIRestNetCore.csproj|solutionrelative:apirestnetcore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BA3D86-D30C-47AB-B7BB-1AE3E57BD62B}|APIRestNetCore\\APIRestNetCore.csproj|d:\\escritorio\\clases\\web avanzada\\apirestnetcore\\apirestnetcore\\apirestnetcore\\apirestnetcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1BA3D86-D30C-47AB-B7BB-1AE3E57BD62B}|APIRestNetCore\\APIRestNetCore.csproj|solutionrelative:apirestnetcore\\apirestnetcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BA3D86-D30C-47AB-B7BB-1AE3E57BD62B}|APIRestNetCore\\APIRestNetCore.csproj|d:\\escritorio\\clases\\web avanzada\\apirestnetcore\\apirestnetcore\\apirestnetcore\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BA3D86-D30C-47AB-B7BB-1AE3E57BD62B}|APIRestNetCore\\APIRestNetCore.csproj|solutionrelative:apirestnetcore\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BA3D86-D30C-47AB-B7BB-1AE3E57BD62B}|APIRestNetCore\\APIRestNetCore.csproj|d:\\escritorio\\clases\\web avanzada\\apirestnetcore\\apirestnetcore\\apirestnetcore\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BA3D86-D30C-47AB-B7BB-1AE3E57BD62B}|APIRestNetCore\\APIRestNetCore.csproj|solutionrelative:apirestnetcore\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Clases\\Web Avanzada\\APIRestNetCore\\APIRestNetCore\\APIRestNetCore\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "APIRestNetCore\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Escritorio\\Clases\\Web Avanzada\\APIRestNetCore\\APIRestNetCore\\APIRestNetCore\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "APIRestNetCore\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAASwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:54:30.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Clases\\Web Avanzada\\APIRestNetCore\\APIRestNetCore\\APIRestNetCore\\Program.cs",
+              "RelativeDocumentMoniker": "APIRestNetCore\\Program.cs",
+              "ToolTip": "D:\\Escritorio\\Clases\\Web Avanzada\\APIRestNetCore\\APIRestNetCore\\APIRestNetCore\\Program.cs",
+              "RelativeToolTip": "APIRestNetCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:51:13.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Escritorio\\Clases\\Web Avanzada\\APIRestNetCore\\APIRestNetCore\\APIRestNetCore\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "APIRestNetCore\\appsettings.Development.json",
+              "ToolTip": "D:\\Escritorio\\Clases\\Web Avanzada\\APIRestNetCore\\APIRestNetCore\\APIRestNetCore\\appsettings.Development.json",
+              "RelativeToolTip": "APIRestNetCore\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T13:34:24.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Escritorio\\Clases\\Web Avanzada\\APIRestNetCore\\APIRestNetCore\\APIRestNetCore\\appsettings.json",
+              "RelativeDocumentMoniker": "APIRestNetCore\\appsettings.json",
+              "ToolTip": "D:\\Escritorio\\Clases\\Web Avanzada\\APIRestNetCore\\APIRestNetCore\\APIRestNetCore\\appsettings.json",
+              "RelativeToolTip": "APIRestNetCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T13:31:01.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "APIRestNetCore.csproj",
+              "DocumentMoniker": "D:\\Escritorio\\Clases\\Web Avanzada\\APIRestNetCore\\APIRestNetCore\\APIRestNetCore\\APIRestNetCore.csproj",
+              "RelativeDocumentMoniker": "APIRestNetCore\\APIRestNetCore.csproj",
+              "ToolTip": "D:\\Escritorio\\Clases\\Web Avanzada\\APIRestNetCore\\APIRestNetCore\\APIRestNetCore\\APIRestNetCore.csproj",
+              "RelativeToolTip": "APIRestNetCore\\APIRestNetCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-17T13:21:27.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Clases\\Web Avanzada\\APIRestNetCore\\APIRestNetCore\\APIRestNetCore\\DataAccess\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "APIRestNetCore\\DataAccess\\AppDbContext.cs",
+              "ToolTip": "D:\\Escritorio\\Clases\\Web Avanzada\\APIRestNetCore\\APIRestNetCore\\APIRestNetCore\\DataAccess\\AppDbContext.cs",
+              "RelativeToolTip": "APIRestNetCore\\DataAccess\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:16:11.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Clases\\Web Avanzada\\APIRestNetCore\\APIRestNetCore\\APIRestNetCore\\DataAccess\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "APIRestNetCore\\DataAccess\\ProductRepository.cs",
+              "ToolTip": "D:\\Escritorio\\Clases\\Web Avanzada\\APIRestNetCore\\APIRestNetCore\\APIRestNetCore\\DataAccess\\ProductRepository.cs",
+              "RelativeToolTip": "APIRestNetCore\\DataAccess\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:12:50.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Clases\\Web Avanzada\\APIRestNetCore\\APIRestNetCore\\APIRestNetCore\\BussinessLogic\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "APIRestNetCore\\BussinessLogic\\IProductRepository.cs",
+              "ToolTip": "D:\\Escritorio\\Clases\\Web Avanzada\\APIRestNetCore\\APIRestNetCore\\APIRestNetCore\\BussinessLogic\\IProductRepository.cs",
+              "RelativeToolTip": "APIRestNetCore\\BussinessLogic\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:06:45.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Clases\\Web Avanzada\\APIRestNetCore\\APIRestNetCore\\APIRestNetCore\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "APIRestNetCore\\Model\\Product.cs",
+              "ToolTip": "D:\\Escritorio\\Clases\\Web Avanzada\\APIRestNetCore\\APIRestNetCore\\APIRestNetCore\\Model\\Product.cs",
+              "RelativeToolTip": "APIRestNetCore\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:01:43.628Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
