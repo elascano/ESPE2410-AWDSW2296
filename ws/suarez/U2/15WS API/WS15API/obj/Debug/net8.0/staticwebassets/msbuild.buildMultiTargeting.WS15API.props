@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WS15API.props" />
+</Project>

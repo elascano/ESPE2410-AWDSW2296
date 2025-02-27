@@ -1,0 +1,17 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "app.js",
+        "use": "@vercel/node"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/api/(.*)",
+        "dest": "app.js"
+      }
+    ],
+    "alias": "exam2-fdmskpb6x-jose-proanos-projects.vercel.app"
+  }
+  

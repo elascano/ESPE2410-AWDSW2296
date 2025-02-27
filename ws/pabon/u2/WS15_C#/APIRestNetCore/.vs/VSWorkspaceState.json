@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\APIRestNetCore",
+    "\\APIRestNetCore.Model",
+    "\\APIRestNetCore\\BussinessLogic",
+    "\\APIRestNetCore\\Controllers",
+    "\\APIRestNetCore\\DataAccess",
+    "\\APIRestNetCore\\Model",
+    "\\APIRestNetCore\\obj\\Debug",
+    "\\APIRestNetCore\\Properties"
+  ],
+  "SelectedNode": "\\APIRestNetCore\\APIRestNetCore.csproj",
+  "PreviewInSolutionExplorer": false
+}

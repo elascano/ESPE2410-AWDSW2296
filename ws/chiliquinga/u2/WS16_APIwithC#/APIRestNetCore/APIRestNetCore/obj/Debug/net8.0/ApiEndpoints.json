@@ -1,0 +1,30 @@
+[
+  {
+    "ContainingType": "APIRestNetCore.Controllers.ProductController",
+    "Method": "GetProducts",
+    "RelativePath": "Product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "GetProducts"
+  },
+  {
+    "ContainingType": "APIRestNetCore.Controllers.ProductController",
+    "Method": "AddProducts",
+    "RelativePath": "Product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "APIRestNetCore.Model.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "AddProducts"
+  }
+]

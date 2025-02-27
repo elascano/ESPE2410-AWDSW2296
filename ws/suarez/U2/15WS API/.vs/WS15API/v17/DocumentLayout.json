@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matia\\OneDrive\\Escritorio\\Deberes\\Web avanzado\\ESPE2410-AWDSW2296\\ws\\suarez\\U2\\WS15API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF9D0CB-8C89-4EBD-B260-34C55E770716}|WS15API\\WS15API.csproj|c:\\users\\matia\\onedrive\\escritorio\\deberes\\web avanzado\\espe2410-awdsw2296\\ws\\suarez\\u2\\ws15api\\ws15api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FF9D0CB-8C89-4EBD-B260-34C55E770716}|WS15API\\WS15API.csproj|solutionrelative:ws15api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF9D0CB-8C89-4EBD-B260-34C55E770716}|WS15API\\WS15API.csproj|c:\\users\\matia\\onedrive\\escritorio\\deberes\\web avanzado\\espe2410-awdsw2296\\ws\\suarez\\u2\\ws15api\\ws15api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FF9D0CB-8C89-4EBD-B260-34C55E770716}|WS15API\\WS15API.csproj|solutionrelative:ws15api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF9D0CB-8C89-4EBD-B260-34C55E770716}|WS15API\\WS15API.csproj|c:\\users\\matia\\onedrive\\escritorio\\deberes\\web avanzado\\espe2410-awdsw2296\\ws\\suarez\\u2\\ws15api\\ws15api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF9D0CB-8C89-4EBD-B260-34C55E770716}|WS15API\\WS15API.csproj|solutionrelative:ws15api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF9D0CB-8C89-4EBD-B260-34C55E770716}|WS15API\\WS15API.csproj|c:\\users\\matia\\onedrive\\escritorio\\deberes\\web avanzado\\espe2410-awdsw2296\\ws\\suarez\\u2\\ws15api\\ws15api\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF9D0CB-8C89-4EBD-B260-34C55E770716}|WS15API\\WS15API.csproj|solutionrelative:ws15api\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF9D0CB-8C89-4EBD-B260-34C55E770716}|WS15API\\WS15API.csproj|c:\\users\\matia\\onedrive\\escritorio\\deberes\\web avanzado\\espe2410-awdsw2296\\ws\\suarez\\u2\\ws15api\\ws15api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF9D0CB-8C89-4EBD-B260-34C55E770716}|WS15API\\WS15API.csproj|solutionrelative:ws15api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF9D0CB-8C89-4EBD-B260-34C55E770716}|WS15API\\WS15API.csproj|c:\\users\\matia\\onedrive\\escritorio\\deberes\\web avanzado\\espe2410-awdsw2296\\ws\\suarez\\u2\\ws15api\\ws15api\\businesslogic\\iproductrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF9D0CB-8C89-4EBD-B260-34C55E770716}|WS15API\\WS15API.csproj|solutionrelative:ws15api\\businesslogic\\iproductrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF9D0CB-8C89-4EBD-B260-34C55E770716}|WS15API\\WS15API.csproj|c:\\users\\matia\\onedrive\\escritorio\\deberes\\web avanzado\\espe2410-awdsw2296\\ws\\suarez\\u2\\ws15api\\ws15api\\dataacces\\productrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF9D0CB-8C89-4EBD-B260-34C55E770716}|WS15API\\WS15API.csproj|solutionrelative:ws15api\\dataacces\\productrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF9D0CB-8C89-4EBD-B260-34C55E770716}|WS15API\\WS15API.csproj|c:\\users\\matia\\onedrive\\escritorio\\deberes\\web avanzado\\espe2410-awdsw2296\\ws\\suarez\\u2\\ws15api\\ws15api\\dataacces\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF9D0CB-8C89-4EBD-B260-34C55E770716}|WS15API\\WS15API.csproj|solutionrelative:ws15api\\dataacces\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\matia\\OneDrive\\Escritorio\\Deberes\\Web avanzado\\ESPE2410-AWDSW2296\\ws\\suarez\\U2\\WS15API\\WS15API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WS15API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\matia\\OneDrive\\Escritorio\\Deberes\\Web avanzado\\ESPE2410-AWDSW2296\\ws\\suarez\\U2\\WS15API\\WS15API\\appsettings.Development.json",
+              "RelativeToolTip": "WS15API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T13:43:57.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\matia\\OneDrive\\Escritorio\\Deberes\\Web avanzado\\ESPE2410-AWDSW2296\\ws\\suarez\\U2\\WS15API\\WS15API\\appsettings.json",
+              "RelativeDocumentMoniker": "WS15API\\appsettings.json",
+              "ToolTip": "C:\\Users\\matia\\OneDrive\\Escritorio\\Deberes\\Web avanzado\\ESPE2410-AWDSW2296\\ws\\suarez\\U2\\WS15API\\WS15API\\appsettings.json",
+              "RelativeToolTip": "WS15API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T13:43:45.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\OneDrive\\Escritorio\\Deberes\\Web avanzado\\ESPE2410-AWDSW2296\\ws\\suarez\\U2\\WS15API\\WS15API\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "WS15API\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\matia\\OneDrive\\Escritorio\\Deberes\\Web avanzado\\ESPE2410-AWDSW2296\\ws\\suarez\\U2\\WS15API\\WS15API\\Model\\Product.cs",
+              "RelativeToolTip": "WS15API\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:34:54.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\OneDrive\\Escritorio\\Deberes\\Web avanzado\\ESPE2410-AWDSW2296\\ws\\suarez\\U2\\WS15API\\WS15API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WS15API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\matia\\OneDrive\\Escritorio\\Deberes\\Web avanzado\\ESPE2410-AWDSW2296\\ws\\suarez\\U2\\WS15API\\WS15API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WS15API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAhwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:54:59.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\OneDrive\\Escritorio\\Deberes\\Web avanzado\\ESPE2410-AWDSW2296\\ws\\suarez\\U2\\WS15API\\WS15API\\Program.cs",
+              "RelativeDocumentMoniker": "WS15API\\Program.cs",
+              "ToolTip": "C:\\Users\\matia\\OneDrive\\Escritorio\\Deberes\\Web avanzado\\ESPE2410-AWDSW2296\\ws\\suarez\\U2\\WS15API\\WS15API\\Program.cs",
+              "RelativeToolTip": "WS15API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:51:13.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\OneDrive\\Escritorio\\Deberes\\Web avanzado\\ESPE2410-AWDSW2296\\ws\\suarez\\U2\\WS15API\\WS15API\\DataAcces\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "WS15API\\DataAcces\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\matia\\OneDrive\\Escritorio\\Deberes\\Web avanzado\\ESPE2410-AWDSW2296\\ws\\suarez\\U2\\WS15API\\WS15API\\DataAcces\\AppDBContext.cs",
+              "RelativeToolTip": "WS15API\\DataAcces\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:16:02.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRespository.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\OneDrive\\Escritorio\\Deberes\\Web avanzado\\ESPE2410-AWDSW2296\\ws\\suarez\\U2\\WS15API\\WS15API\\DataAcces\\ProductRespository.cs",
+              "RelativeDocumentMoniker": "WS15API\\DataAcces\\ProductRespository.cs",
+              "ToolTip": "C:\\Users\\matia\\OneDrive\\Escritorio\\Deberes\\Web avanzado\\ESPE2410-AWDSW2296\\ws\\suarez\\U2\\WS15API\\WS15API\\DataAcces\\ProductRespository.cs",
+              "RelativeToolTip": "WS15API\\DataAcces\\ProductRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:13:24.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRespository.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\OneDrive\\Escritorio\\Deberes\\Web avanzado\\ESPE2410-AWDSW2296\\ws\\suarez\\U2\\WS15API\\WS15API\\Businesslogic\\IProductRespository.cs",
+              "RelativeDocumentMoniker": "WS15API\\Businesslogic\\IProductRespository.cs",
+              "ToolTip": "C:\\Users\\matia\\OneDrive\\Escritorio\\Deberes\\Web avanzado\\ESPE2410-AWDSW2296\\ws\\suarez\\U2\\WS15API\\WS15API\\Businesslogic\\IProductRespository.cs",
+              "RelativeToolTip": "WS15API\\Businesslogic\\IProductRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:06:45.267Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
