@@ -1,0 +1,6 @@
+@MadecorSales_HostAddress = http://localhost:5230
+
+GET {{MadecorSales_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
