@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Report Shoppers</title>
+  <link rel="stylesheet" href="./report.css">
+</head>
+<body>
+  <div class="App">
+    <header class="App-header">
+      <h1>Report Shoppers</h1>
+      <label for="state">Select State:</label>
+      <select id="state">
+        <option value="all">All</option>
+        <option value="active">Active</option>
+        <option value="inactive">Inactive</option>
+      </select>
+      <button onclick="generateReport()">Generate Report</button>
+      <button onclick="downloadPDF()">Download as PDF</button>
+      <h2>Company: Toys</h2>
+      <div id="report-preview">
+        <table id="report-table">
+          <thead>
+            <tr>
+              <th>ID</th>
+              <th>Name</th>
+              <th>Last Name</th>
+              <th>Age</th>
+              <th>Email</th>
+              <th>Phone Number</th>
+              <th>State</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </header>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"></script>
+  <script>
+    async function generateReport() {
+      const state = document.getElementById('state').value;
+      const response = await fetch(`https://backendexam.vercel.app/shoppers/report?state=${state}`);
+      const data = await response.json();
+      const tableBody = document.querySelector('#report-table tbody');
+      tableBody.innerHTML = '';
+      data.forEach(item => {
+        const row = document.createElement('tr');
+        row.innerHTML = `
+          <td>${item._id}</td>
+          <td>${item.name}</td>
+          <td>${item.last_name}</td>
+          <td>${item.age}</td>
+          <td>${item.email}</td>
+          <td>${item.number_phone}</td>
+          <td>${item.state}</td>
+        `;
+        tableBody.appendChild(row);
+      });
+    }
+
+    function downloadPDF() {
+      const { jsPDF } = window.jspdf;
+      const doc = new jsPDF();
+      doc.text("Report Shoppers", 10, 10);
+      doc.autoTable({ html: '#report-table' });
+      doc.save('report_shoppers.pdf');
+    }
+  </script>
+</body>
+</html>
